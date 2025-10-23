@@ -1,1 +1,3 @@
-# task_4
+# Задание 4
+
+Решние располагается в src/main/java/Main.java
